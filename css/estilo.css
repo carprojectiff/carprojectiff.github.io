@@ -1,13 +1,6 @@
 body{
-    background-image: url("../imagens/gears-4188632_1920.jpg");
+    background:  url('../imagens/fundo.png');
     font-family: Helvetica,Arial,sans-serif;
-}
-
-.full{
-    width: 100%;
-    height: 100%;
-    background: white;
-    opacity: 0.5;
     background-attachment: fixed;
 }
 
